@@ -1,0 +1,6 @@
+plugin-poisoned-RecoTrackerCkfPatternPlugins.so CkfTrackCandidateMaker CMS%EDM%Framework%Module
+plugin-poisoned-RecoTrackerCkfPatternPlugins.so CkfTrackCandidateMaker CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-RecoTrackerCkfPatternPlugins.so CkfTrajectoryBuilder BaseCkfTrajectoryBuilderFactory
+plugin-poisoned-RecoTrackerCkfPatternPlugins.so CkfTrajectoryMaker CMS%EDM%Framework%Module
+plugin-poisoned-RecoTrackerCkfPatternPlugins.so CkfTrajectoryMaker CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-RecoTrackerCkfPatternPlugins.so GroupedCkfTrajectoryBuilder BaseCkfTrajectoryBuilderFactory

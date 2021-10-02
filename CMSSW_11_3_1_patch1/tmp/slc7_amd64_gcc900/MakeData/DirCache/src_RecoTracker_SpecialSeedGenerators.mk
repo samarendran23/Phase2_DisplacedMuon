@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoTracker/SpecialSeedGenerators
+subdirs_src_RecoTracker_SpecialSeedGenerators := src_RecoTracker_SpecialSeedGenerators_python src_RecoTracker_SpecialSeedGenerators_src

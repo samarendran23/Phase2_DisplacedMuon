@@ -1,0 +1,2 @@
+ALL_PACKAGES += Analysis/DisplacedMuonAnalyzer
+subdirs_src_Analysis_DisplacedMuonAnalyzer := src_Analysis_DisplacedMuonAnalyzer_python src_Analysis_DisplacedMuonAnalyzer_plugins

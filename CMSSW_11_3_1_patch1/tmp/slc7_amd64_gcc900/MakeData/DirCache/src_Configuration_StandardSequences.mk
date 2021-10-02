@@ -1,0 +1,2 @@
+ALL_PACKAGES += Configuration/StandardSequences
+subdirs_src_Configuration_StandardSequences := src_Configuration_StandardSequences_python

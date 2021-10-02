@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoTracker/CkfPattern
+subdirs_src_RecoTracker_CkfPattern := src_RecoTracker_CkfPattern_interface src_RecoTracker_CkfPattern_plugins src_RecoTracker_CkfPattern_python src_RecoTracker_CkfPattern_src src_RecoTracker_CkfPattern_test

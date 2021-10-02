@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoTracker
+subdirs_src_RecoTracker = src_RecoTracker_SpecialSeedGenerators src_RecoTracker_TrackProducer src_RecoTracker_CkfPattern

@@ -1,0 +1,1 @@
+RecoTrackerCkfPatternPlugins RecoTracker/CkfPattern/plugins/GroupedCkfTrajectoryBuilder.cc RecoTracker/CkfPattern/plugins/SealModules.cc RecoTracker/CkfPattern/plugins/TrajectorySegmentBuilder.cc
